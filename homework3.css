@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(235, 232, 232);
+}
+
+.message, .name, .email {
+    color: rgb(141, 140, 140);
+}
+
+.forname, .foremail, .formessage {
+    width: 110em;
+    
+}
+
+.forname, .foremail {
+    height: 2em;
+}
+
+.formessage {
+    height: 3em;
+}
+
+.main {
+    padding-left: 120px;
+}
+
+.btn {
+    background-color: black;
+    color: #fff;
+    width: 70px;
+    height: 30px;
+}
